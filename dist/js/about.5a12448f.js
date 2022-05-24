@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_2_todo_list"]=self["webpackChunkvue_2_todo_list"]||[]).push([[443],{6883:function(t,e,u){u.r(e),u.d(e,{default:function(){return i}});var s=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},n=[function(){var t=this,e=t.$createElement,u=t._self._c||e;return u("div",{staticClass:"about"},[u("h1",[t._v("About")]),u("p",[t._v(" This is the TodoList app v1.0.0. It is part of the Vue crash course on Youtube ")])])}],o=u(1001),r={},l=(0,o.Z)(r,s,n,!1,null,null,null),i=l.exports}}]);
+//# sourceMappingURL=about.5a12448f.js.map
