@@ -1,0 +1,37 @@
+https://cli.vuejs.org/guide/installation.html
+
+To install the new package use the command:
+npm install -g @vue/cli
+
+You can check you have the right version with this command:
+vue --version
+
+Two ways to create the application:
+
+- the command line way:
+vue create nameOfApp
+
+pick default preset
+
+navigate to your folder:
+cd test
+
+to nagivate out of a two folders up use:
+cd ..
+
+start the server with:
+npm run serve
+
+open localhost:8080
+
+
+- the graphical user interface:
+vue ui
+
+[@types/uuid] - v7.0.0 breaks uuid/v4 #42634
+https://github.com/DefinitelyTyped/DefinitelyTyped/issues/42634
+
+https://jsonplaceholder.typicode.com/
+https://jsonplaceholder.typicode.com/todos
+
+npm i axios
