@@ -1,4 +1,4 @@
-# my-first-vue-2-project
+# vue-2-todo-list
 
 This is the TodoList app v1.0.0.
 
